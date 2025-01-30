@@ -168,6 +168,7 @@
   },
   "active": "1af60c0233cc1b20",
   "lastOpenFiles": [
+    "Novo Documento de Texto.txt",
     "Articles/Genserver e OTP.md",
     "Articles/Explicando peer-to-peer(P2P).md",
     "Articles/Elixir Macros e metaprogramming.md",
@@ -199,7 +200,6 @@
     "Learning/math",
     "Learning/threads/Virtual thread.md",
     "Learning/threads/mutex.md",
-    "Learning/threads/mutabilidade de dados.md",
     "Learning/Elixir/Phoenix",
     "Learning/Elixir/gambiarras",
     "Learning/threads",
