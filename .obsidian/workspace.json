@@ -168,9 +168,15 @@
   },
   "active": "1af60c0233cc1b20",
   "lastOpenFiles": [
+    "Articles/Genserver e OTP.md",
+    "Articles/Explicando peer-to-peer(P2P).md",
+    "Articles/Elixir Macros e metaprogramming.md",
+    "Articles/Elixir basics.md",
+    "Articles/Criando um encurtador de links em JS.md",
+    "Articles/Blockchain.md",
+    "README.md",
     "Learning/Estruturas de dados.md",
     "README.md.md",
-    "README.md",
     "Learning/cryptgraphic hash functions.md",
     "Learning/Elixir/Phoenix/phoenix.md",
     "Learning/Elixir/Actor model.md",
@@ -179,9 +185,6 @@
     "Learning/Elixir/Elixir roadmap.md",
     "Learning/Elixir/Erlang.md",
     "Learning/Elixir/Pattern matching no Elixir.md",
-    "Articles/Genserver e OTP.md",
-    "Articles/Elixir Macros e metaprogramming.md",
-    "Articles/Elixir basics.md",
     "Learning/Elixir/gambiarras/start observer.md",
     "Learning/Elixir/gambiarras/install tailwind.md",
     "Learning/Data/Data.md",
@@ -197,12 +200,9 @@
     "Learning/threads/Virtual thread.md",
     "Learning/threads/mutex.md",
     "Learning/threads/mutabilidade de dados.md",
-    "Learning/threads/lock.md",
     "Learning/Elixir/Phoenix",
     "Learning/Elixir/gambiarras",
     "Learning/threads",
-    "Learning/Elixir",
-    "interests/data lake.md",
-    "Ideas/SHA 1.md"
+    "Learning/Elixir"
   ]
 }
