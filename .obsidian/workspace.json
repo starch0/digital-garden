@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ideas/Bittorrent com Elixir..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Bittorrent com Elixir."
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9fda32b75698e162",
@@ -169,6 +170,10 @@
   },
   "active": "1af60c0233cc1b20",
   "lastOpenFiles": [
+    "README.md",
+    "Ideas/Bittorrent com Elixir..md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Novo Documento de Texto.txt",
     "Articles/Genserver e OTP.md",
     "Articles/Explicando peer-to-peer(P2P).md",
@@ -176,7 +181,6 @@
     "Articles/Elixir basics.md",
     "Articles/Criando um encurtador de links em JS.md",
     "Articles/Blockchain.md",
-    "README.md",
     "Learning/Estruturas de dados.md",
     "README.md.md",
     "Learning/cryptgraphic hash functions.md",
@@ -199,11 +203,8 @@
     "Learning/db",
     "Learning/redes",
     "Learning/math",
-    "Learning/threads/Virtual thread.md",
-    "Learning/threads/mutex.md",
     "Learning/Elixir/Phoenix",
     "Learning/Elixir/gambiarras",
-    "Learning/threads",
-    "Learning/Elixir"
+    "Learning/threads"
   ]
 }
