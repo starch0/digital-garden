@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atividade Espaço Calouro - 51-2025.md",
+                "file": "Uni/Atividade Espaço Calouro - 51-2025.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,12 +167,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1af60c0233cc1b20",
+  "active": "cd7b6ca7b7bfe1e4",
   "lastOpenFiles": [
+    "Uni",
     "Untitled.md",
     "README.md",
     "Ideas/Bittorrent com Elixir..md",
-    "Atividade Espaço Calouro - 51-2025.md",
+    "Uni/Atividade Espaço Calouro - 51-2025.md",
     "Novo Documento de Texto.txt",
     "Articles/Genserver e OTP.md",
     "Articles/Explicando peer-to-peer(P2P).md",
@@ -195,7 +196,6 @@
     "Learning/Data/Data.md",
     "Learning/colinha/docker.md",
     "Learning/colinha/tmux.md",
-    "Learning/colinha/OOP.md",
     "Learning/Java",
     "Learning/colinha",
     "Learning/docker",
