@@ -31,24 +31,30 @@ To install **mise**, simply run:
 ```bash
 curl -fsSL https://mise.run/install.sh | sh #On linux OS
 ```
-
-Or, if you’re using Homebrew (MacOS/Linux):
-
-```
-
+Or, if you are using Homebrew
+```bash
+brew install mise 
 ```
 
 After installation, you can add it to your shell profile:
 
 ```
-eval "$(mise activate zsh)"
+eval "$(mise activate zsh)" #Replace `zsh` with your shell if needed
+```
+And last, activate
+
+```bash
+mise activate
 ```
 
-(replace `zsh` with your shell if needed)
+Check if everything is right
 
-### Example Usage
+```bash
+mise doctor
+```
 
-Install a tool (e.g., Node.js):
+
+Install a tool (e.g., ):
 
 ```
 mise install node@18
