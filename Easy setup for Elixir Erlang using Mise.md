@@ -5,3 +5,5 @@ Straight to the point, mise-en-place are a dev-tool manager, just like asdf for 
 
 ### Why i'd use mise instead of ASDF or so? 
 
+Well, it bring everything you need in just one tool
+
