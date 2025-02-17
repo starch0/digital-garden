@@ -41,39 +41,37 @@ After installation, you can add it to your shell profile:
 ```
 eval "$(mise activate zsh)" #Replace `zsh` with your shell if needed
 ```
-And last, activate
+And last, activate:
 
 ```bash
 mise activate
 ```
 
-Check if everything is right
+Check if everything is right:
 
 ```bash
 mise doctor
 ```
 
 
-Install a tool (e.g., ):
+Install a tool (e.g., Elixir, because Elixir is great):
 
-```
-mise install node@18
-```
-
-Set a global version:
-
-```
-mise use -g node@18
+```bash
+mise use --global elixir@latest erlang@latest
 ```
 
-Define a version per project:
+Check the installed tools:
 
+```bash
+mise ls
 ```
-echo "node 18" > .tool-versions
+
+And you might have something like that:
+
+```bash
+Tool    Version        Source                      Requested
+elixir  1.18.2-otp-27  ~/.config/mise/config.toml  latest
+erlang  27.2.2         ~/.config/mise/config.toml  latest
+node    22.14.0        ~/.config/mise/config.toml  22
 ```
 
-### Conclusion
-
-If you're looking for a **fast, simple, and powerful** alternative to **asdf**, **mise** is worth considering. It brings everything you need into one tool, making development environments easier to manage and more efficient.
-
-Give it a try and see how it fits into your workflow!
