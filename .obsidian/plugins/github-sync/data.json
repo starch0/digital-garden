@@ -1,6 +1,6 @@
 {
   "remoteURL": "https://github.com/starch0/digital-garden",
   "gitLocation": "",
-  "syncinterval": 2,
+  "syncinterval": 0,
   "isSyncOnLoad": true
 }
