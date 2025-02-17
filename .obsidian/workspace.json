@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Easy setup for Elixir Erlang using Mise.md",
+                "file": "Articles/Easy setup for Elixir Erlang using Mise.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,10 +182,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "006b60653e19b49b",
+  "active": "cd7b6ca7b7bfe1e4",
   "lastOpenFiles": [
     "README.md",
-    "Easy setup for Elixir Erlang using Mise.md",
+    "Articles/Easy setup for Elixir Erlang using Mise.md",
     "Uni/Atividade Espaço Calouro - 51-2025.md",
     "Uni",
     "Ideas/Bittorrent com Elixir..md",

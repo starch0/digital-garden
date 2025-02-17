@@ -75,3 +75,4 @@ erlang  27.2.2         ~/.config/mise/config.toml  latest
 node    22.14.0        ~/.config/mise/config.toml  22
 ```
 
+With **mise**, managing development environments becomes faster, easier, and more efficient.
