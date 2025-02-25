@@ -82,7 +82,7 @@ console.log(factorial(5)); // Output: 120
 
 JavaScript provides several built-in array methods that align with FP principles, such as:
 
-- `map`: Transforms an array by applying a function to each element.
+- `map`: Transforms an array by applying a function to eacph element.
 - `filter`: Returns a new array with elements that pass a given condition.
 - `reduce`: Accumulates values into a single result.
 
