@@ -7,4 +7,4 @@
 		[ ] Atividades da faculdade
 [ ] 20 Páginas de livro.
 [ ] Menos tempo de tela. 
-[ ]  
+[ ]  Aplicar pra 5 vagas de emprego. Sendo 3 fora da TI. 
