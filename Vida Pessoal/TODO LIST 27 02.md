@@ -1,4 +1,4 @@
-[ ] Academia. 8 ~ 9:30 Horas
+[x] Academia. 8 ~ 9:30 Horas
 [ ] Afazeres da casa (Louça, e roupas, etc).
 [ ] Estudar mínimo 3 horas.
 	Tópicos
@@ -7,4 +7,4 @@
 		[ ] Atividades da faculdade
 [ ] 20 Páginas de livro.
 [ ] Menos tempo de tela. 
-[ ]  Aplicar pra 5 vagas de emprego. Sendo 3 fora da TI. 
+[ ] Aplicar pra 5 vagas de emprego, sendo 2 fora da TI. 

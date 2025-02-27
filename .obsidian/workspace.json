@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "companion:Toggle completion": false,
       "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
