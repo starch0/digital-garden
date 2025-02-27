@@ -8,3 +8,4 @@
 [ ] 20 Páginas de livro.
 [ ] Menos tempo de tela. 
 [ ] Aplicar pra 5 vagas de emprego, sendo 2 fora da TI. 
+[ ] 1 Questão de sadserver
