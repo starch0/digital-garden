@@ -1,0 +1,17 @@
+- **:w** – Salva o arquivo atual.
+- **:q** – Fecha o buffer atual.
+- **:wq** ou **:x** – Salva e sai do editor.
+- **:e [arquivo]** – Abre um arquivo específico.
+- **:vsp [arquivo]** – Abre um arquivo em divisão vertical.
+- **:sp [arquivo]** – Abre um arquivo em divisão horizontal.
+- **:tabnew [arquivo]** – Abre um novo tab com o arquivo especificado.
+- **:bd** – Fecha o buffer atual sem fechar a janela.
+- **:set number** – Ativa a numeração de linhas.
+- **:set relativenumber** – Exibe números de linha relativos.
+- **:syntax on** – Ativa o realce de sintaxe.
+- **:%s/padrão/substituição/g** – Substitui todas as ocorrências de um padrão no arquivo.
+- **:noh** – Remove o destaque da última busca.
+- **:!comando** – Executa um comando externo (ex.: **:!ls** para listar diretórios).
+- **:help [comando]** – Abre a documentação para o comando especificado.
+- **:colorscheme [nome]** – Altera o esquema de cores.
+- **:set cursorline** – Destaca a linha onde o cursor está.
