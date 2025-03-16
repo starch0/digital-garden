@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/colinha/nvim.md",
+                "file": "Articles/Uncomplicating data structures..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nvim"
+              "title": "Uncomplicating data structures."
             }
           }
         ],
@@ -198,8 +198,9 @@
   },
   "active": "30ebfb2b7322b80a",
   "lastOpenFiles": [
-    "Learning/colinha/tmux.md",
     "Learning/colinha/nvim.md",
+    "Articles/Uncomplicating data structures..md",
+    "Learning/colinha/tmux.md",
     "Learning/colinha/docker.md",
     "Articles/Explicando peer-to-peer(P2P).md",
     "Articles/WebRTC.md",
@@ -227,7 +228,6 @@
     "README.md.md",
     "Learning/cryptgraphic hash functions.md",
     "Learning/Elixir/Phoenix/phoenix.md",
-    "Learning/Elixir/Actor model.md",
     "Learning/Java",
     "Learning/colinha",
     "Learning/docker",
