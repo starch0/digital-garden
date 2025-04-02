@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Done/Genserver e OTP.md",
+                "file": "Articles/Ongoing/Álgebra Linear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genserver e OTP"
+              "title": "Álgebra Linear"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9fda32b75698e162",
@@ -210,13 +210,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "cd7b6ca7b7bfe1e4",
+  "active": "56fc9719ae19c5d6",
   "lastOpenFiles": [
+    "Articles/Ongoing/Regressão linear e regressão logistica.md",
+    "Articles/Ongoing/Álgebra Linear.md",
+    "Articles/Ongoing/Principles, what they are and why you should care about'em.md",
+    "Articles/Done/Genserver e OTP.md",
     "Articles/Ongoing/WebRTC.md",
     "Articles/Ongoing/Uncomplicating data structures..md",
-    "Articles/Ongoing/Regressão linear e regressão logistica.md",
     "Articles/Ongoing/Pattern Matching no Elixir.md",
-    "Articles/Done/Genserver e OTP.md",
     "Articles/genserver2.md",
     "Articles/Done/Elixir basics.md",
     "Articles/Ongoing/Developing a TPC IP stack on C.md",
@@ -241,9 +243,7 @@
     "Learning/SadServer",
     "README.md",
     "Uni",
-    "Ideas/Bittorrent com Elixir..md",
     "Novo Documento de Texto.txt",
-    "Articles/Done/Elixir Macros e metaprogramming.md",
     "Learning/Java",
     "Learning/colinha",
     "Learning/docker",
