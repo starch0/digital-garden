@@ -146,65 +146,60 @@ $$
 --------------------------
 Para alinhar várias equações, use o ambiente align ou align* (sem numeração).
 Exemplo:
+```
 \begin{align*}
 f(x) &= x^2 + 2x + 1 \\
      &= (x + 1)^2
 \end{align*}
+```
 
 9. Funções, Limites e Derivadas
--------------------------------
 - Função:
-  Exemplo: f(x) = ax^2 + bx + c
+  Exemplo: `f(x) = ax^2 + bx + c`
 
 - Limite:
-  Sintaxe: \lim_{x \to \infty} f(x)
+  Sintaxe: `\lim_{x \to \infty} f(x)`
   Exemplo:
   $$
   \lim_{x \to \infty} \frac{1}{x} = 0
   $$
 
 - Derivada:
-  Sintaxe: \frac{d}{dx} f(x)
+  Sintaxe: `\frac{d}{dx} f(x)`
   Exemplo:
   $$
   \frac{d}{dx} \sin x = \cos x
   $$
 
 10. Personalizando Espaços e Estilos
--------------------------------------
+
 - Espaçamento:
   - \, gera um pequeno espaço.
-  - \quad e \qquad geram espaços maiores.
+  - `\quad` e `\qquad` geram espaços maiores.
   Exemplo:
   $$
   a \quad b \qquad c
   $$
 
 - Texto em modo matemático:
-  Use \text{texto} para incluir texto normal dentro de uma expressão matemática.
+  Use `\text{texto}` para incluir texto normal dentro de uma expressão matemática.
   Exemplo:
   $$
   \text{se } x > 0, \text{ então } \sqrt{x} \text{ é definido}
   $$
 
 11. Comandos Avançados e Definições Personalizadas
----------------------------------------------------
+
 Você pode definir novos comandos para simplificar expressões complexas.
 Exemplo, para definir um comando para o conjunto dos reais:
-\newcommand{\R}{\mathbb{R}}
+`\newcommand{\R}{\mathbb{R}}`
 Utilize-o assim:
 $$ f: \R \to \R $$
 
-------------------------------------------------------------
 Dicas Gerais
-------------------------------------------------------------
+
 - Sempre teste suas expressões em um ambiente que suporte MathJax para garantir a renderização correta.
 - Consulte a documentação oficial e exemplos online para aprofundar o conhecimento.
 - Experimente combinar ambientes, como usar align dentro de blocos display para equações complexas.
 - Para mais detalhes, consulte o tutorial completo em:
   https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-
-------------------------------------------------------------
-Conclusão
-------------------------------------------------------------
-Este tutorial abrange os principais comandos e ambientes do MathJax, permitindo a criação de documentos matemáticos bem formatados. Pratique os exemplos e explore as diversas opções disponíveis para personalizar sua notação matemática.
