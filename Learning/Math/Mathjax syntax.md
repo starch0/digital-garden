@@ -1,3 +1,13 @@
+---
+gists:
+  - id: d99914ea1ac8afb39901de4756da7410
+    url: 'https://gist.github.com/starch0/d99914ea1ac8afb39901de4756da7410'
+    createdAt: '2025-04-04T01:46:49Z'
+    updatedAt: '2025-04-04T01:46:49Z'
+    filename: Mathjax syntax.md
+    isPublic: true
+    baseUrl: 'https://api.github.com'
+---
 - Modo inline e display:
     - Inline: Envolva sua expressão com um cifrão simples:  
         `$ expressão $`

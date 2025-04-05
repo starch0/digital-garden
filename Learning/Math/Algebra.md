@@ -60,8 +60,8 @@ $$
 - Definição: Uma função associa cada elemento de um conjunto (domínio) a um único elemento de outro conjunto (contradomínio).
 - Representação: Pode ser representada por fórmulas, gráficos ou tabelas.
 - Exemplos de Funções:
-    - Função linear: f(x) = mx + b.
-    - Função quadrática: f(x) = ax^2 + bx + c.
+    - Função linear: `f(x) = mx + b`.
+    - Função quadrática: `f(x) = ax^2 + bx + c`.
 ---
 
 8. Notação e Convenções
@@ -70,6 +70,7 @@ $$
     - Z: Conjunto dos números inteiros.
     - Q: Conjunto dos números racionais.
     - R: Conjunto dos números reais.
+
 - Operaçes e Símbolos Comuns:
     - ∑ : Somatório.
     - ∏ : Produto.

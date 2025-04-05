@@ -15,8 +15,6 @@ O número 12 aparece em ambas as listas e é o menor número que satisfaz essa c
 
 Portanto, o MMC de 4 e 6 é **12**.
 
-
-
 $$
 \mathrm{lcm}(a,b) = \frac{|a \cdot b|}{\gcd(a,b)}
 $$

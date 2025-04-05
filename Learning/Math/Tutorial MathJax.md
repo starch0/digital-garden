@@ -1,7 +1,24 @@
+---
+gists:
+  - id: 8f4144c66ad4eac15f31942da394f844
+    url: 'https://gist.github.com/starch0/8f4144c66ad4eac15f31942da394f844'
+    createdAt: '2025-04-04T01:47:08Z'
+    updatedAt: '2025-04-04T01:47:08Z'
+    filename: Tutorial MathJax.md
+    isPublic: false
+    baseUrl: 'https://api.github.com'
+  - id: e6dccfbbdf5c651da24e2b561cab7612
+    url: 'https://gist.github.com/starch0/e6dccfbbdf5c651da24e2b561cab7612'
+    createdAt: '2025-04-04T01:47:17Z'
+    updatedAt: '2025-04-04T01:47:18Z'
+    filename: Tutorial MathJax.md
+    isPublic: true
+    baseUrl: 'https://api.github.com'
+---
 
 
-1. Introdução
--------------
+### 1. Introdução
+
 MathJax é uma biblioteca JavaScript que renderiza expressões matemáticas escritas em LaTeX ou notação similar. Ela é amplamente utilizada em páginas web, editores de texto como o Obsidian e notebooks interativos como o Jupyter. O MathJax permite escrever equações de forma clara, utilizando duas notações principais: inline e display.
 
 2. Modos de Renderização
