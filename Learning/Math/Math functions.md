@@ -3,6 +3,7 @@ Funções matemáticas são ferramentas essenciais para descrever relações ent
 Formula:
 
 $$
+
 \boxed{
   f(x) = \begin{cases}
     2x + 1 & \text{se } x \geq 0 \\

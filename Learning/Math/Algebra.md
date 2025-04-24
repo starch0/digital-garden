@@ -4,6 +4,7 @@ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 1. Conceitos Básicos
 - Definição: Álgebra é a área da matemática que lida com símbolos e regras para manipulação desses símbolos. Esses símbolos podem representar números, variáveis ou outros elementos.
+- 
 - Elementos Fundamentais:
     - Variáveis: Símbolos (geralmente letras) que representam valores desconhecidos ou variáveis.
     - Constantes: Números fixos.

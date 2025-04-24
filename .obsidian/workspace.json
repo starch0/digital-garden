@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Math/Math functions.md",
+                "file": "Articles/Ongoing/Learn by doing..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math functions"
-            }
-          },
-          {
-            "id": "4ecd77d6be459877",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Learn by doing."
             }
           }
         ]
@@ -165,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,35 +168,35 @@
   },
   "active": "1af60c0233cc1b20",
   "lastOpenFiles": [
+    "Learning/colinha/nvim.md",
+    "Articles/Ongoing/Learn by doing..md",
+    "Articles/Done/Blockchain.md",
+    "Articles/Done/Easy setup for Elixir Erlang using Mise.md",
+    "Articles/Ongoing/Pattern Matching no Elixir.md",
+    "Articles/Ongoing/Developing a TPC IP stack on C.md",
+    "Articles/Done/Genserver e OTP.md",
+    "Articles/Done/Elixir Macros e metaprogramming.md",
+    "Articles/Done/Explicando peer-to-peer(P2P).md",
+    "Articles/Done/Functional Javascript.md",
+    "Learning/Elixir/Actor model.md",
+    "Learning/Elixir/BEAM.md",
+    "Learning/Elixir/Concorrencia.md",
     "Learning/Math/Mathjax syntax.md",
     "Learning/Math/Math functions.md",
     "Learning/Math/Fundamentos da matematica.md",
-    "Learning/Math/Algebra.md",
+    "Learning/Elixir/gambiarras/install tailwind.md",
+    "Learning/Elixir/gambiarras/start observer.md",
     "Learning/Math/Tutorial MathJax.md",
+    "Learning/Math/Algebra.md",
+    "Learning/SadServer/The Command Line Murder.md",
+    "Learning/cryptgraphic hash functions.md",
+    "meetup.md",
     "README.md",
     "Articles/Ongoing/Álgebra Linear.md",
     "Learning/Math",
     "Articles/Ongoing/Regressão linear e regressão logistica.md",
-    "Articles/Ongoing/Principles, what they are and why you should care about'em.md",
-    "Articles/Done/Genserver e OTP.md",
-    "Articles/Ongoing/WebRTC.md",
-    "Articles/Ongoing/Uncomplicating data structures..md",
-    "Articles/Ongoing/Pattern Matching no Elixir.md",
-    "Articles/genserver2.md",
-    "Articles/Done/Elixir basics.md",
-    "Articles/Ongoing/Developing a TPC IP stack on C.md",
-    "Articles/Done/Easy setup for Elixir Erlang using Mise.md",
-    "Articles/Ongoing/Credo on Elixir.md",
-    "Articles/Ongoing/Criando um encurtador de links em JS.md",
-    "Articles/Done/Blockchain.md",
     "Articles/Ongoing",
     "Articles/Done",
-    "Articles/Done/Functional Javascript.md",
-    "Learning/colinha/nvim.md",
-    "Learning/colinha/tmux.md",
-    "Learning/colinha/docker.md",
-    "Articles/Done/Explicando peer-to-peer(P2P).md",
-    "Vida Pessoal/TODO LIST 27 02.md",
     "Vida Pessoal",
     "Learning/SadServer",
     "Uni",
