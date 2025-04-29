@@ -157,6 +157,7 @@ In this case, you know the whole and the percentage, and you want to find the va
 
 
 ## Mastering the Order of Operations
+
 At its core, the order of operations is a set of rules that dictates the sequence in which operations (like addition, subtraction, multiplication, division, exponents, and operations within grouping symbols) should be performed in a mathematical expression. The purpose is to ensure that everyone who evaluates the same expression arrives at the same, consistent answer.
 
 Without a standard order, expressions could be interpreted in multiple ways, leading to different results. Consider the simple expression:
@@ -165,37 +166,6 @@ Without a standard order, expressions could be interpreted in multiple ways, lea
 
 - If you perform the addition first: (2+3)×4=5×4=20
 - If you perform the multiplication first: 2+(3×4)=2+12=14
-
 As you can see, the order of operations significantly impacts the outcome. The order of operations provides a universal agreement on which calculation takes precedence.
 
-#### The Standard Order (PEMDAS/BODMAS)
-
-Different mnemonics are used to remember the order, but they represent the same sequence of operations:
-
-- PEMDAS:
-    
-    - Parentheses (or any grouping symbols like brackets or braces)
-    - Exponents (or powers and roots)
-    - Multiplication and Division (from left to right)
-    - Addition and Subtraction (from left to right)
-- BODMAS:
-    
-    - Brackets (or any grouping symbols)
-    - Orders (or powers and roots)
-    - Division and Multiplication (from left to right)
-    - Addition and Subtraction (from left to right)
-
-Elaborating on Each Step:
-
-1. Parentheses/Brackets (P/B): These are the highest priority. Any calculation inside parentheses or other grouping symbols must be performed first. If there are nested parentheses, you start with the innermost set.
-    
-    - _Example:_ (5+2)×3. You must calculate 5+2=7 first, then 7×3=21.
-2. Exponents/Orders (E/O): After dealing with grouping symbols, you evaluate any exponents or roots.
-    
-    - _Example:_ 42+5. You calculate 42=16 first, then 16+5=21.
-3. Multiplication and Division (M/D): These operations are performed next. They have equal priority. When you encounter both multiplication and division in an expression, you work from left to right.
-    
-    - _Example:_ 10÷2×3. You perform the division first because it's on the left: 10÷2=5, then 5×3=15. (Incorrect would be 10÷(2×3)=10÷6).
-4. Addition and Subtraction (A/S): These are the lowest priority operations. Like multiplication and division, they have equal priority. You perform addition and subtraction from left to right.
-    
-    - _Example:_ 8−4+2. You perform the subtraction first: 8−4=4, then 4+2=6. (Incorrect would be 8−(4+2)=8−6=2).
+It's important not to confuse the Order of Operations with properties like the **Commutative Property**. The Commutative Property states that for **certain operations** (specifically addition and multiplication), the order of the _numbers_ being combined does not affect the result of _that specific operation_ (e.g., a+b=b+a or a×b=b×a). For instance, 3+5 gives the same result as 5+3. However, the Order of Operations dictates the priority _between different types of operations_ (like performing multiplication _before_ addition in 2+3×4), which absolutely _does_ affect the final result of the entire expression. The Order of Operations tells you _which operation to do first_, while the Commutative Property tells you that for addition and multiplication, the sequence of the _numbers within that operation_ doesn't matter.
