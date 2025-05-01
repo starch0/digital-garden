@@ -1,12 +1,15 @@
 ---
 gists:
   - id: 0c3e9088199d960aa744ac1b996fbe00
-    url: 'https://gist.github.com/starch0/0c3e9088199d960aa744ac1b996fbe00'
-    createdAt: '2025-04-29T15:54:48Z'
-    updatedAt: '2025-04-29T15:54:49Z'
+    url: https://gist.github.com/starch0/0c3e9088199d960aa744ac1b996fbe00
+    createdAt: 2025-04-29T15:54:48Z
+    updatedAt: 2025-04-29T15:54:49Z
     filename: Diving into math..md
     isPublic: true
-    baseUrl: 'https://api.github.com'
+    baseUrl: https://api.github.com
+cssclasses: 
+aliases: 
+tags:
 ---
 Remember that teacher? The one who insisted that math exists in EVERYTHING around you? At the time, perhaps you were like, "Nah, that's bullshit". But now, as an adult, you've likely come to realize that your former teacher was, in fact, right. Math isn't just confined to textbooks; it's the underlying structure of the world we live in.
 

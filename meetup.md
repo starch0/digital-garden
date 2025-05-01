@@ -17,8 +17,8 @@ App que conecta usuários em eventos presenciais através de chats baseados em g
 ## Requisitos Funcionais
 
 ### Autenticação
-- [ ] Cadastro
-- [ ] Perfil com:
+- [x] Cadastro
+- [x] Perfil com:
   - Foto
   - Nome
   - Bio...
