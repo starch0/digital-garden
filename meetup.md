@@ -37,10 +37,10 @@ App que conecta usuários em eventos presenciais através de chats baseados em g
 - [ ] Histórico de chat por usuário (DM)
 
 ### Notificações
-- [ ] Alertas para:
-  - [ ] Novas mensagens
-  - [ ] Início de eventos próximos (Raio indefinido)
-  - [ ] Usuários entrando/saindo do chat
+- [x] Alertas para:
+  - [x] Novas mensagens
+  - [x] Início de eventos próximos (Raio indefinido)
+  - [x] Usuários entrando/saindo do chat
 
 ### Administração
 

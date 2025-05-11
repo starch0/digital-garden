@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetup.md",
-                "mode": "preview",
+                "file": "Articles/Done/Diving into math..md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meetup"
+              "title": "Diving into math."
             }
           }
         ]
@@ -169,19 +169,23 @@
   },
   "active": "1af60c0233cc1b20",
   "lastOpenFiles": [
-    "Articles/Ongoing/Diving into math..md",
+    "Articles/Done/Diving into math..md",
+    "Articles/Ongoing/Developing a TPC IP stack on C.md",
+    "Articles/Ongoing/Criando um encurtador de links em JS.md",
+    "Articles/Ongoing/Learn by doing..md",
+    "Articles/Ongoing/Regressão linear e regressão logistica.md",
+    "Articles/Ongoing/Credo on Elixir.md",
+    "Articles/Ongoing/Álgebra Linear.md",
+    "Articles/Done/Blockchain.md",
+    "Vida Pessoal/Sobre mim.md",
+    "README.md",
+    "meetup.md",
     "Articles/Ongoing/Mineração de criptomoedas e a loteria computacional.md",
     "Learning/SadServer/Tokyo can't serve web file.md",
-    "Articles/Ongoing/Developing a TPC IP stack on C.md",
-    "Articles/Ongoing/Learn by doing..md",
     "Articles/Ongoing/Uncomplicating data structures..md",
     "Articles/Ongoing/Pattern Matching no Elixir.md",
-    "Articles/Ongoing/Criando um encurtador de links em JS.md",
-    "Articles/Ongoing/Credo on Elixir.md",
-    "Articles/Ongoing/Regressão linear e regressão logistica.md",
     "Articles/Ongoing/Principles, what they are and why you should care about'em.md",
     "Learning/colinha/nvim.md",
-    "Articles/Done/Blockchain.md",
     "Articles/Done/Easy setup for Elixir Erlang using Mise.md",
     "Articles/Done/Genserver e OTP.md",
     "Articles/Done/Elixir Macros e metaprogramming.md",
@@ -191,10 +195,6 @@
     "Learning/Elixir/BEAM.md",
     "Learning/Elixir/Concorrencia.md",
     "Learning/Math/Mathjax syntax.md",
-    "Learning/Math/Math functions.md",
-    "Learning/Math/Fundamentos da matematica.md",
-    "Learning/Elixir/gambiarras/install tailwind.md",
-    "Learning/Elixir/gambiarras/start observer.md",
     "Learning/Math",
     "Articles/Ongoing",
     "Articles/Done",
