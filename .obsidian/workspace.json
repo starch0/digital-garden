@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Ongoing/Calculo lambda.md",
+                "file": "Articles/Ongoing/Lamda calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculo lambda"
+              "title": "Lamda calculus"
             }
           }
         ]
@@ -169,16 +169,17 @@
   },
   "active": "1af60c0233cc1b20",
   "lastOpenFiles": [
+    "Articles/Ongoing/Álgebra Linear.md",
+    "Articles/Ongoing/Clusters on Javascript node.md",
+    "Articles/Ongoing/Regressão linear e regressão logistica.md",
+    "Articles/Ongoing/Lamda calculus.md",
     "Vida Pessoal/Sobre mim.md",
-    "Articles/Ongoing/Calculo lambda.md",
     "Articles/Done/Functional Javascript.md",
     "Articles/Done/Diving into math..md",
     "Articles/Ongoing/Developing a TPC IP stack on C.md",
     "Articles/Ongoing/Criando um encurtador de links em JS.md",
     "Articles/Ongoing/Learn by doing..md",
-    "Articles/Ongoing/Regressão linear e regressão logistica.md",
     "Articles/Ongoing/Credo on Elixir.md",
-    "Articles/Ongoing/Álgebra Linear.md",
     "Articles/Done/Blockchain.md",
     "README.md",
     "meetup.md",
@@ -194,7 +195,6 @@
     "Articles/Done/Explicando peer-to-peer(P2P).md",
     "Learning/Elixir/Actor model.md",
     "Learning/Elixir/BEAM.md",
-    "Learning/Elixir/Concorrencia.md",
     "Learning/Math",
     "Articles/Ongoing",
     "Articles/Done",
