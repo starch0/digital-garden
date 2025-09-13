@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Ongoing/STUN and TURN in WebRTC.md",
+                "file": "Articles/Ongoing/Everything is number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STUN and TURN in WebRTC"
+              "title": "Everything is number"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9fda32b75698e162",
@@ -156,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,8 +170,10 @@
   },
   "active": "1af60c0233cc1b20",
   "lastOpenFiles": [
-    "Articles/Done/Diving into math..md",
     "Articles/Ongoing/STUN and TURN in WebRTC.md",
+    "Articles/Ongoing/Everything is number.md",
+    "Articles/Ongoing/Regressão linear e regressão logistica.md",
+    "Articles/Done/Diving into math..md",
     "Ideas/Bookparty.md",
     "Ideas/Emular android no navegador.md",
     "Ideas/Functional programming in Java.md",
@@ -194,8 +196,6 @@
     "Learning/SadServer/Tokyo can't serve web file.md",
     "Learning/SadServer/The Command Line Murder.md",
     "Articles/Ongoing/Lamda calculus.md",
-    "Articles/Ongoing/Álgebra Linear.md",
-    "Articles/Ongoing/Clusters on Javascript node.md",
     "Learning/Math",
     "Articles/Ongoing",
     "Articles/Done",
