@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb6cfe4afeedb99",
+        "id": "6fde1df191dd49f6",
         "type": "tabs",
         "children": [
           {
-            "id": "1af60c0233cc1b20",
+            "id": "3fcb11756e1ba66e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Ongoing/Everything is number.md",
+                "file": "Articles/Ongoing/Learn by doing..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Everything is number"
+              "title": "Learn by doing."
             }
           }
         ]
@@ -62,6 +62,16 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "4e16ff9b2d9288d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -168,34 +178,34 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1af60c0233cc1b20",
+  "active": "3fcb11756e1ba66e",
   "lastOpenFiles": [
-    "Articles/Ongoing/STUN and TURN in WebRTC.md",
+    "Articles/Ongoing/Lamda calculus.md",
     "Articles/Ongoing/Everything is number.md",
-    "Articles/Ongoing/Regressão linear e regressão logistica.md",
+    "Articles/Ongoing/Clusters on Javascript node.md",
+    "Articles/Ongoing/Álgebra Linear.md",
+    "Articles/Ongoing/Learn by doing..md",
+    "Articles/Ongoing/Mineração de criptomoedas e a loteria computacional.md",
+    "Articles/Ongoing/Developing a TPC IP stack on C.md",
+    "Articles/Ongoing/Criando um encurtador de links em JS.md",
+    "Articles/Done/Explicando peer-to-peer(P2P).md",
+    "Articles/Done/Genserver e OTP.md",
+    "Articles/Done/Functional Javascript.md",
     "Articles/Done/Diving into math..md",
-    "Ideas/Bookparty.md",
-    "Ideas/Emular android no navegador.md",
+    "Articles/Done/Blockchain.md",
+    "Uni/ATIVIDADE 1 - FUNDAMENTOS E ARQUITETURA DE COMPUTADORES - 51_2025.md",
+    "interests/data lake.md",
+    "Ideas/SHA 1.md",
+    "Ideas/Reiniciar.md",
+    "Ideas/Metaprogramação e macros..md",
     "Ideas/Functional programming in Java.md",
-    "Ideas/Bittorrent com Elixir..md",
+    "Ideas/Emular android no navegador.md",
     "Ideas/Como criar modelo de IA para chartVR.md",
+    "Ideas/Bookparty.md",
+    "Ideas/Bittorrent com Elixir..md",
     "Ideas/Automação em emuladores.md",
     "Ideas/Array.md",
-    "Articles/Done/Genserver e OTP.md",
-    "Articles/Done/Blockchain.md",
-    "Learning/colinha/docker.md",
-    "Learning/colinha/nvim.md",
-    "Learning/Data/Data.md",
-    "Learning/Elixir/Phoenix/phoenix.md",
-    "Learning/Elixir/Elixir roadmap.md",
-    "Learning/Elixir/gambiarras/start observer.md",
-    "Learning/Elixir/gambiarras/install tailwind.md",
-    "Learning/Math/Algebra.md",
-    "Learning/Math/Fundamentos da matematica.md",
-    "Learning/SadServer/Saint John what is writing to this log file.md",
-    "Learning/SadServer/Tokyo can't serve web file.md",
-    "Learning/SadServer/The Command Line Murder.md",
-    "Articles/Ongoing/Lamda calculus.md",
+    "Articles/Ongoing/STUN and TURN in WebRTC.md",
     "Learning/Math",
     "Articles/Ongoing",
     "Articles/Done",

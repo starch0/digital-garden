@@ -1,0 +1,1 @@
+Ribose, é o [[mono-sacarideo]] que está na estrutura do [[RNA]]
